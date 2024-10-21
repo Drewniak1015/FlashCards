@@ -92,8 +92,10 @@ const App = () => {
           </div>
           <button>Generuj</button>
         </form>
-      </header>
-      <FlashCardList sampleCards={sampleCards}></FlashCardList>
+      </header>{" "}
+      <div className="container">
+        <FlashCardList sampleCards={sampleCards}></FlashCardList>
+      </div>
     </div>
   );
 };
