@@ -1,0 +1,50 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  background: white;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.236);
+  margin-bottom: 2.8rem;
+}
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin: 2rem;
+}
+.form-group {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+button {
+  background-color: hsl(240, 100%, 66%);
+  color: white;
+  border-radius: 5px;
+  width: 5rem;
+  padding: 0.5rem;
+  border: none;
+  transition: 150ms;
+  align-self: flex-end;
+}
+button:hover {
+  background-color: hsl(240, 100%, 60%);
+}
+label {
+  color: gray;
+  font-size: 0.75rem;
+  margin-bottom: 0.25rem;
+}
+select {
+  width: 15rem;
+  background: inherit;
+  padding: 0.25rem;
+  border: 1px solid black;
+}
+input {
+  width: 10rem;
+  padding: 0.25rem;
+}
