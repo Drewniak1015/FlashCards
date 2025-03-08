@@ -22,7 +22,7 @@ Aby uruchomić projekt lokalnie, wykonaj następujące kroki:
 
 2. Wejdź do folderu projektu:
     ```bash
-    cd CustomDropDownMenu
+    cd Flashcards
     ```
 
 3. Zainstaluj zależności:
