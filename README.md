@@ -1,8 +1,19 @@
-# React + Vite
+# Flashcards
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Prosta i interaktywna aplikacja do nauki przy użyciu fiszek, która umożliwia tworzenie, przeglądanie i testowanie wiedzy.
 
-Currently, two official plugins are available:
+## Funkcje
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Losuj Pytania**: Możesz stworzyć aż 50 pytań z 15 różnych tematów.
+- **Quiz fiszek**: Testuj swoją wiedzę, odpowiadając na pytania.
+- **Śledzenie postępów**: Monitoruj poprawne i błędne odpowiedzi.
+- **Responsywny design**: Aplikacja działa zarówno na urządzeniach mobilnych, jak i na komputerach.
+- **Integracja z API**: Aplikacja korzysta z zewnętrznego API do pobierania pytań i wyników quizu.
+
+## Instalacja
+
+Aby uruchomić projekt lokalnie, wykonaj następujące kroki:
+
+1. Sklonuj repozytorium:
+   ```bash
+   git clone https://github.com/twojanazwa/flashcards.git
