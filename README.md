@@ -19,7 +19,6 @@ Aby uruchomić projekt lokalnie, wykonaj następujące kroki:
 1. Sklonuj repozytorium:
    ```bash
    git clone https://github.com/Drewniak1015/flashcards.git
-   Aby uruchomić projekt lokalnie, wykonaj następujące kroki:
 
 2. Przejdź do folderu z projektem:
    cd flashcards
