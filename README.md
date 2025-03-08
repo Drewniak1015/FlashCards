@@ -20,11 +20,17 @@ Aby uruchomić projekt lokalnie, wykonaj następujące kroki:
    ```bash
    git clone https://github.com/Drewniak1015/flashcards.git
 
-2. Przejdź do folderu z projektem:
-   cd flashcards
+2. Wejdź do folderu projektu:
+    ```bash
+    cd CustomDropDownMenu
+    ```
 
 3. Zainstaluj zależności:
-   npm install
+    ```bash
+    npm install
+    ```
 
-4. Uruchom aplikację lokalnie:
-   npm start
+4. Uruchom aplikację:
+    ```bash
+    npm start
+    ```
